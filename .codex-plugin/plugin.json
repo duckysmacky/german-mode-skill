@@ -1,0 +1,12 @@
+{
+  "name": "german-mode",
+  "version": "1.0.0",
+  "description": "Turn any conversation into German practice at your chosen level, with translations, vocabulary summaries, and corrections.",
+  "author": {
+    "name": "duckysmacky",
+    "url": "https://github.com/duckysmacky"
+  },
+  "repository": "https://github.com/duckysmacky/german-mode-skill",
+  "license": "MIT",
+  "skills": "./skills/"
+}

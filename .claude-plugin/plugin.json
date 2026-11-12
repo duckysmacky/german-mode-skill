@@ -1,0 +1,20 @@
+{
+  "name": "german-mode",
+  "displayName": "German Mode",
+  "version": "1.0.0",
+  "description": "Practice German in every conversation: the agent answers in German at your level, translates harder words into your own language(s), and adds a short vocabulary and corrections summary.",
+  "author": {
+    "name": "duckysmacky",
+    "url": "https://github.com/duckysmacky"
+  },
+  "homepage": "https://github.com/duckysmacky/german-mode-skill",
+  "repository": "https://github.com/duckysmacky/german-mode-skill",
+  "license": "MIT",
+  "keywords": [
+    "german",
+    "language-learning",
+    "deutsch",
+    "vocabulary",
+    "practice"
+  ]
+}

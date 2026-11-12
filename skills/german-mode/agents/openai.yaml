@@ -1,0 +1,4 @@
+interface:
+  display_name: "German Mode"
+  short_description: "Practice German with translations and vocabulary summaries"
+  default_prompt: "Use $german-mode to practise German during this conversation, asking for my level and translation languages if no settings are saved."
