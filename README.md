@@ -63,6 +63,9 @@ In a coding session the explanation is in German, while the code block and the e
 
 ## Install
 
+You can just point your AI assistant at this repository (send link) and ask them, what is the best way to install. Or follow my
+personal guides below.
+
 ### Claude Code
 
 Add my plugin marketplace and install the plugin:
